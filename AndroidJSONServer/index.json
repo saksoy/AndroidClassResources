@@ -1,0 +1,11 @@
+
+[
+    { id : "0", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/brian_the_human.jpg", caption : "Brian" },
+    { id : "1", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/bruce_of_chairington.jpg", caption : "Bruce" },
+    { id : "2", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/carroll%20st.jpg", caption : "Carroll St.jpg" },
+    { id : "3", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/chauncey_caninicus.jpg", caption : "Chauncey" },
+    { id : "4", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/corner%20yard_carroll_st.jpg", caption : "Corner Yard" },
+    { id : "5", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/frederick_who_grinds_pepper.jpg", caption : "Frederick" },
+    { id : "6", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/smokestacks_2_carroll_st.jpg", caption : "Smokestacks" },
+    { id : "7", url : "https://raw.github.com/bignerdranch/AndroidClassResources/master/AndroidJSONServer/smokestacks_carroll_st.jpg", caption : "Smokestacks" }
+]
